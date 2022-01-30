@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/sagar.karmoker.12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagar.karmoker.12" height="30" width="40" /></a>
+<a href="https://fb.com/sagar.karmoker.12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagor.karmoker.12" height="30" width="40" /></a>
 <a href="https://instagram.com/sagar__karmoker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar__karmoker" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sagarkarmoker1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sagarkarmoker1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sagarkarmoker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagarkarmoker" height="30" width="40" /></a>
