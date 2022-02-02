@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Karmoker</h1>
-<h3 align="center">Currently I am a student department of Computer and Science Engineering at EWU</h3>
+<h3 align="center">Currently, I am a student in the Department of Computer and Science Engineering at EWU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarkarmoker&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkarmoker" /> </p>
 
