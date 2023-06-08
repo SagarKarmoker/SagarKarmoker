@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarkarmoker" alt="sagarkarmoker" /></a> </p>
 
-- 🔭 I’m currently working on [LibraryManage](https://github.com/SagarKarmoker/LibraryManage)
+- 🔭 I’m currently working on [UniCourse](https://github.com/SagarKarmoker/UniCourse)
 
-- 🌱 I’m currently learning **Data Structure**
+- 🌱 I’m currently learning **Software Development, AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SagarKarmoker](https://github.com/SagarKarmoker)
 
-- 💬 Ask me about **Java, C, C++**
+- 💬 Ask me about **Java, C, C++, Python, PHP, TailwindCSS**
 
 - 📫 How to reach me **sagarkarmoker2001@gmail.com**
 
