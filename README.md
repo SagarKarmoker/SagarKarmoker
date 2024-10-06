@@ -1,5 +1,26 @@
 <h1 align="center">Hi 👋, I'm Sagar Karmoker</h1>
-<p align="center">I am a student of Computer Science and Engineering (CSE) at East West University, one of the leading private universities in Bangladesh. I have a passion for learning new technologies and solving real-world problems with innovative solutions. I have experience in programming languages such as C, C++, Java, Python, and web development tools such as HTML, CSS, JavaScript. I am also familiar with data structures, algorithms, databases, operating systems, and software engineering principles. I am looking for internship opportunities that will allow me to apply my skills and knowledge in a professional environment and learn from experienced mentors. I am eager to join a dynamic and collaborative team that values creativity, excellence, and diversity. If you are interested in my profile, please feel free to contact me via LinkedIn or email.</p>
+
+<p align="center">Welcome to my GitHub profile! I'm Sagar Karmoker, a passionate Computer Science and Engineering student at East West University in Bangladesh. I enjoy exploring new technologies and solving real-world problems through software development and blockchain innovation.</p>
+
+<h3>What I Do:</h3>
+<ul>
+  <li><strong>Blockchain Development</strong>: I specialize in developing decentralized applications (dApps) using Solidity, Ethers.js, and smart contracts. My focus is on building secure and efficient blockchain solutions.</li>
+  <li><strong>Web & Mobile App Development</strong>: Proficient in React, Vite, Tailwind CSS for front-end, and Node.js for back-end development. I'm also skilled in mobile development with Kotlin and Jetpack Compose for Android apps.</li>
+  <li><strong>Programming Languages</strong>: Experienced in C, C++, Java, Python, and more, with a solid foundation in data structures, algorithms, and software engineering concepts.</li>
+</ul>
+
+<h3>Notable Projects:</h3>
+<ul>
+  <li><strong>UniCourse</strong>: A full-fledged Learning Management System built with HTML, JavaScript, Tailwind CSS, and PHP.</li>
+  <li><strong>TutorBridge</strong>: A freelance teaching platform for Android developed using Java, XML, and Firebase.</li>
+  <li><strong>TraceChainBD</strong>: A blockchain-based supply chain management system that enhances transparency and traceability in logistics.</li>
+  <li><strong>PassChain</strong>: A decentralized password manager that leverages blockchain for secure storage and management of credentials.</li>
+</ul>
+
+<h3>Let's Connect:</h3>
+<p>I'm always eager to collaborate on exciting projects and learn from fellow developers. If you're interested in any of my work or would like to connect, feel free to reach out!</p>
+
+<p>Check out my repos below for more details on my projects, and don't forget to star ⭐ any that catch your eye!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarkarmoker&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkarmoker" /> </p>
 
