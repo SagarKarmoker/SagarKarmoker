@@ -1,11 +1,11 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=140&section=header&text=Sagar%20Karmoker&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Blockchain%20%7C%20Full%20Stack%20%7C%20Problem%20Solver&descAlignY=65&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=140&section=header&text=Sagar%20Karmoker&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Backend%20%7C%20Blockchain%20%7C%20AI%20Systems&descAlignY=65&descAlign=50" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sagar;Blockchain+%26+Web3+Developer;Full+Stack+Engineer;Competitive+Programmer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sagar;Backend+%26+Blockchain+Engineer;DeFi+%26+Smart+Contracts;Building+AI-backed+products" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sagarkarmoker&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Based%20in-Bangladesh%20🇧🇩-6366F1?style=for-the-badge" alt="Location" />
-  <img src="https://img.shields.io/badge/Student-East%20West%20University-6366F1?style=for-the-badge" alt="University" />
+  <img src="https://img.shields.io/badge/Backend%20%26%20Blockchain-Core%20Devs%20Ltd.-6366F1?style=for-the-badge" alt="Current Role" />
 </div>
 
 <br/>
@@ -24,28 +24,23 @@
 
 ```javascript
 const sagar = {
-    pronouns: "He/Him",
     location: "Dhaka, Bangladesh 🇧🇩",
-    role: "Full Stack & Blockchain Developer",
-    education: "Computer Science @ East West University",
-    
+    role: "Backend & Blockchain Engineer",
+    education: "M.Sc. in CSE @ East West University",
+
     currentFocus: [
-        "🔗 Web3 & Blockchain Development",
-        "🤖 AI Integration in Apps", 
-        "📱 Mobile App Development",
-        "☁️ Cloud Architecture"
+        "🔗 DeFi, Smart Contracts & Onchain Systems",
+        "🤖 LLM / RAG Applications",
+        "⚙️ Distributed Backends & System Design",
+        "📄 Six IEEE Papers (Three First Author)"
     ],
-    
+
     askMeAbout: [
-        "Solidity", "Smart Contracts", "DeFi", "dApps",
-        "Foundry", "Hardhat", "Ethers.js",
-        "Self Sovereign Identity (SSI)", "Hyperledger Indy",
-        "React", "Next.js", "Node.js", "NestJS", "TailwindCSS",
-        "C++", "Java", "Python", "TypeScript",
-        "System Design", "Problem Solving"
-    ],
-    
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
+        "NestJS", "TypeScript", "Prisma", "PostgreSQL", "Redis",
+        "Solidity", "EVM", "DeFi", "Foundry", "Hardhat", "Ethers.js",
+        "Spring Boot", "Java", "Python", "PyTorch", "RAG Pipelines",
+        "Self Sovereign Identity (SSI)", "Docker", "System Design"
+    ]
 };
 ```
 
@@ -56,18 +51,10 @@ const sagar = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Tech Arsenal**
 
 <details open>
-<summary><b>🎨 Frontend & Design</b></summary>
-<br>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,html,css,js,ts&theme=dark&perline=9" />
-</div>
-</details>
-
-<details open>
 <summary><b>⚙️ Backend & Database</b></summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,firebase,mysql,postgres,mongodb&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,spring,postgres,prisma,redis,mongodb,mysql&theme=dark&perline=9" />
 </div>
 </details>
 
@@ -75,7 +62,8 @@ const sagar = {
 <summary><b>⛓️ Blockchain & Web3</b></summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum,web3&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=solidity,rust&theme=dark&perline=5" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=ethereum&logoColor=black" />
   <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
@@ -85,27 +73,29 @@ const sagar = {
 </details>
 
 <details open>
-<summary><b>📱 Mobile & Cross-Platform</b></summary>
+<summary><b>🤖 AI / ML</b></summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java&theme=dark&perline=5" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=pytorch,py,fastapi&theme=dark&perline=6" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-6366F1?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </div>
 </details>
 
 <details open>
-<summary><b>💻 Programming Languages</b></summary>
+<summary><b>🎨 Frontend</b></summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js,solidity&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,ts,js&theme=dark&perline=6" />
 </div>
 </details>
 
 <details open>
-<summary><b>🛠️ Tools & DevOps</b></summary>
+<summary><b>💻 Languages & Tooling</b></summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio,figma,postman,vercel&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,java,python,cpp,solidity,git,github,linux,docker,vscode,postman,vercel&theme=dark&perline=12" />
 </div>
 </details>
 
@@ -117,55 +107,55 @@ const sagar = {
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpNx9YawHIXjl/giphy.gif" width="35"> **Featured Projects**
 
-<div align="center">
+### 🚀 **Live Products**
 
-### 🪙 **ERC20 Token Generator Platform**
+**ResumeStitch** — AI job-application platform: resume parsing, job-description analysis, and tailored resume/cover-letter generation.
+[![Repo](https://img.shields.io/badge/backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SagarKarmoker/resumestitch-backend)
+[![Live](https://img.shields.io/badge/🌐_Live-resumestitch.pro-6366F1?style=for-the-badge)](https://resumestitch.pro/)
+`NestJS` `TypeScript` `Prisma` `PostgreSQL` `OpenRouter` `Supabase`
+
+[![resumestitch-backend](https://github-readme-stats.vercel.app/api/pin/?username=SagarKarmoker&repo=resumestitch-backend&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://github.com/SagarKarmoker/resumestitch-backend)
+
+---
+
+**SAEI** — AI-assisted market analysis workspace for forex and gold: validated model output, server-side risk ceilings, MetaTrader 5 connectivity.
+[![Live](https://img.shields.io/badge/🌐_Live-saeiai.com-6366F1?style=for-the-badge)](https://saeiai.com/)
+`NestJS` `Prisma` `PostgreSQL` `MetaApi` `LLM Pipeline`
+
+---
+
+**Kvants.ai** — DeFi vaults, staking workflows, and onchain asset allocation for a quantitative asset-management platform.
+[![Live](https://img.shields.io/badge/🌐_Live-kvants.ai-6366F1?style=for-the-badge)](https://www.kvants.ai/)
+`NestJS` `Solidity` `EVM` `Staking` `DeFi Vaults`
+
+<br>
+
+### ⛓️ **Blockchain & DeFi**
+
+**ERC20 Token Generator Platform** — deploy customizable ERC20 tokens (mintable, burnable, pausable, capped, permit) across 7 networks via a factory contract.
 [![erc20-gen-platform](https://github-readme-stats.vercel.app/api/pin/?username=SagarKarmoker&repo=erc20-gen-platform&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://github.com/SagarKarmoker/erc20-gen-platform)
-**Token Generation Platform** | TypeScript • React • Solidity • Web3
 
 ---
 
-### 🐸 **Meme Token Platform**
-[![meme-token-platform](https://github-readme-stats.vercel.app/api/pin/?username=SagarKarmoker&repo=meme-token-platform&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://github.com/SagarKarmoker/meme-token-platform)
-**Meme Token Launchpad** | TypeScript • React • Smart Contracts
-
----
-
-### 🏦 **Uniswap V4 Integration**
+**AllInOne DeFi (Uniswap V4)** — vote-escrowed staking (veMTK) and Uniswap V4 swaps through the Universal Router on Base.
 [![uniswap-v4](https://github-readme-stats.vercel.app/api/pin/?username=SagarKarmoker&repo=uniswap-v4&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://github.com/SagarKarmoker/uniswap-v4)
-**DEX Protocol Integration** | Solidity • Foundry • DeFi
 
 ---
 
-### ⚡ **AAVE Flashloan**
-[![aave-flashloan](https://github-readme-stats.vercel.app/api/pin/?username=SagarKarmoker&repo=aave-flashloan&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://github.com/SagarKarmoker/aave-flashloan)
-**DeFi Flashloan Implementation** | Solidity • Hardhat • AAVE Protocol
+**TraceChainBD** — blockchain supply-chain tracking, published at ICISET 2024.
+[![tracechainbd](https://github-readme-stats.vercel.app/api/pin/?username=SagarKarmoker&repo=tracechainbd&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://github.com/SagarKarmoker/tracechainbd)
 
----
+<br>
 
-### 🔐 **Nest JWT Starter**
+### ⚙️ **Backend Engineering**
+
+**NestJS Backend Starter** — production-ready template: refresh-token rotation, RBAC, rate limiting, Winston logging, Swagger, Prisma/PostgreSQL.
 [![nest-jwt-starter](https://github-readme-stats.vercel.app/api/pin/?username=SagarKarmoker&repo=nest-jwt-starter&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://github.com/SagarKarmoker/nest-jwt-starter)
-**Authentication Starter Template** | TypeScript • NestJS • JWT • PostgreSQL
 
 ---
 
-### 📚 **System Design Bangla**
-[![system-design-bangla](https://github-readme-stats.vercel.app/api/pin/?username=SagarKarmoker&repo=system-design-bangla&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://github.com/SagarKarmoker/system-design-bangla)
-**System Design Tutorial in Bangla** | Documentation • Learning Resource
-
----
-
-### 🎓 **UniCourse**
-[![UniCourse](https://github-readme-stats.vercel.app/api/pin/?username=SagarKarmoker&repo=UniCourse&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://github.com/SagarKarmoker/UniCourse)
-**Learning Management System** | HTML • JavaScript • Tailwind CSS • PHP
-
----
-
-### ⛓️ **TraceChainBD**
-[![TraceChainBD](https://github-readme-stats.vercel.app/api/pin/?username=SagarKarmoker&repo=TraceChainBD&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://github.com/SagarKarmoker/TraceChainBD)
-**Blockchain Supply Chain** | Solidity • Ethers.js • React
-
-</div>
+**Shohoj Hishab** — point-of-sale and inventory system: role-based JWT auth, Prisma/PostgreSQL, Turborepo monorepo with a React client.
+[![shohoj-hishab-pos-system](https://github-readme-stats.vercel.app/api/pin/?username=SagarKarmoker&repo=shohoj-hishab-pos-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://github.com/SagarKarmoker/shohoj-hishab-pos-system)
 
 <br>
 
@@ -189,12 +179,6 @@ const sagar = {
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sagarkarmoker&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=6366F1&height=2&section=header" width="80%">
 </div>
 
@@ -202,9 +186,15 @@ const sagar = {
 
 <div align="center">
 
-### 🥉 **Bronze Award - Blockchain Olympiad Bangladesh 2025**
+### 🥉 **Bronze Award — Blockchain Olympiad Bangladesh 2025**
 [![Blockchain Olympiad](https://img.shields.io/badge/🏆_Bronze_Award-Blockchain_Olympiad_Bangladesh_2025-6366F1?style=for-the-badge)](https://blockchainolympiad.com/)
 
+### 📄 **Six IEEE Papers — Three as First Author**
+[![Publications](https://img.shields.io/badge/📄_IEEE-AuthiFi_•_ICBDS_2024_•_ICISET_2024-6366F1?style=for-the-badge)](https://github.com/SagarKarmoker)
+
+### 🚀 **NASA Space Apps & Cisco IoT Hackathon Finalist 2024**
+[![Hackathons](https://img.shields.io/badge/🚀_Finalist-NASA_Space_Apps_•_Cisco_IoT-6366F1?style=for-the-badge)](https://github.com/SagarKarmoker)
+
 </div>
 
 <br>
@@ -213,28 +203,24 @@ const sagar = {
   <img src="https://capsule-render.vercel.app/api?type=soft&color=6366F1&height=2&section=header" width="80%">
 </div>
 
-## <img src="https://media.giphy.com/media/KzJkzjggfGN0PyKWba/giphy.gif" width="35"> **Contribution Graph**
+<!-- CONTRIBUTION SNAKE: the old block pointed at platane/snk's own output, so it rendered *his* graph, not yours.
+     To get your own: add the snk GitHub Action to your SagarKarmoker/SagarKarmoker repo, then uncomment this.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SagarKarmoker/SagarKarmoker/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SagarKarmoker/SagarKarmoker/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SagarKarmoker/SagarKarmoker/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=6366F1&height=2&section=header" width="80%">
-</div>
+-->
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"> **What I'm Up To**
 
-- 🔭 Currently working on **[ERC20 Token Generator](https://github.com/SagarKarmoker/erc20-gen-platform)** & **[Meme Token Platform](https://github.com/SagarKarmoker/meme-token-platform)**
-- 🌱 Learning **Uniswap V4 Hooks**, **Self Sovereign Identity (SSI)**, **Hyperledger Indy**, **Advanced DeFi**
-- 💬 Ask me about **Web3, DeFi, Smart Contract Security, Full Stack Development**
+- 🔭 Building **[ResumeStitch](https://resumestitch.pro/)** and **[SAEI](https://saeiai.com/)** — an AI job-application platform and an AI market-analysis workspace
+- ⛓️ Working on DeFi vaults, staking systems, and onchain transaction infrastructure
+- 🌱 Learning **Uniswap V4 Hooks**, **Self Sovereign Identity**, **distributed systems**
+- 📄 Publishing at **IEEE** — six papers, three as first author
 - 🏆 **Bronze Award** at Blockchain Olympiad Bangladesh 2025
-- 🎯 2026 Goals: **Contribute to Open Source**, **Launch a DeFi dApp**, **Master System Design**
-- ⚡ Fun fact: **I think in code and dream in algorithms! 🧠**
+- 💬 Ask me about **NestJS, Prisma, PostgreSQL, Solidity, DeFi, RAG pipelines, system design**
 
 <br>
 
@@ -246,12 +232,10 @@ const sagar = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logo=firefox&logoColor=white)](https://sagarkarmoker.is-a.dev/)
-[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarkarmoker2001@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarkarmoker.official@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagarkarmoker)
-[![Facebook](https://img.shields.io/badge/📘_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/sagar.karmoker.12)
-[![Instagram](https://img.shields.io/badge/📷_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sagar__karmoker)
-[![Discord](https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SagarKarmoker#6333)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logo=firefox&logoColor=white)](https://sagarkarmoker.is-a.dev/)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SagarKarmoker)
 
 </div>
 
@@ -278,13 +262,11 @@ const sagar = {
 
 <div align="center">
 
-### 💖 **Thanks for visiting!**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Don't+forget+to+star+⭐+my+repos!;Let's+build+something+amazing+together!;Happy+Coding!+🚀" alt="Thanks" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Open+to+backend+%26+blockchain+roles;Let's+build+something+that+ships!;Happy+Coding!+🚀" alt="Thanks" />
 
 <br>
 
-**Show some ❤️ by starring some of my repositories!**
+**Thanks for visiting — reach me at [sagarkarmoker.official@gmail.com](mailto:sagarkarmoker.official@gmail.com)**
 
 </div>
 
